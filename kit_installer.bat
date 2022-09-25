@@ -13,7 +13,7 @@ SET PY_DOWNLOAD_URL=https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.e
 SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/student-grade-analytics/releases/download/v1.0.0/student-grade-analytics.zip
 SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandi1clickkits/student-grade-analytics/main/requirements.txt
 SET REPO_NAME=student-grade-analytics.zip
-SET EXTRACTED_REPO_DIR=student-grade-analytics-main
+SET EXTRACTED_REPO_DIR=student-grade-analytics
 SET NOTEBOOK_NAME=Student Performance Prediction App.ipynb
 where /q python
 IF ERRORLEVEL 1 (
